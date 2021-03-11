@@ -1,0 +1,20 @@
+div{
+    padding: 20px;
+    border: solid red 2px;
+    margin: 10px;
+    width: 100px;
+    height: 200px;
+    float: left;
+    animation: myanimation;
+    border-radius: 50%;
+    position: absolute;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+}
+@-moz-keyframes myanimation{
+    0% {background-color: red; margin: 20px;}
+    25%{background-color: burlywood; margin: 40px;}
+    50%{background-color: cyan;margin: 60px;}
+    75%{background-color: orchid;margin: 80px;}
+    100%{background-color: darkmagenta; margin: 90px;}
+}

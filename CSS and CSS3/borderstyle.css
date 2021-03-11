@@ -1,0 +1,13 @@
+#d1{
+border-color: red;
+border-width: 2px;
+border-style: solid;
+}
+#d2{
+    border-color:blue;
+    border-width: 10px;
+    border-style: groove;
+}
+#d3{
+border: solid rgb(0, 255, 221) 20px;
+}

@@ -1,0 +1,12 @@
+div{
+    padding: 20px;
+    border: rosybrown solid 10px;
+    margin: 30px;
+    width: 100px;
+    height: 200px;
+    float: left;
+    border-radius: 40px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: seagreen;
+}

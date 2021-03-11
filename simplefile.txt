@@ -1,7 +1,0 @@
-this is another file created
-^c
-[A[A[A[B[B
-[A[B[B
-
-ls
-exit

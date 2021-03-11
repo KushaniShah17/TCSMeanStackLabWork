@@ -1,0 +1,10 @@
+.fontclass{
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    color: orange;
+
+}
+a{text-decoration: none;}
